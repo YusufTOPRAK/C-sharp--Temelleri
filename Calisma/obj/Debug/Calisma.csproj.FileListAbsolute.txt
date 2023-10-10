@@ -1,0 +1,7 @@
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\bin\Debug\Calisma.exe.config
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\bin\Debug\Calisma.exe
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\bin\Debug\Calisma.pdb
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\obj\Debug\Calisma.csproj.AssemblyReference.cache
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\obj\Debug\Calisma.csproj.CoreCompileInputs.cache
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\obj\Debug\Calisma.exe
+C:\Users\tprky\OneDrive\Masaüstü\C# Eğitimi\Calisma\Calisma\obj\Debug\Calisma.pdb
